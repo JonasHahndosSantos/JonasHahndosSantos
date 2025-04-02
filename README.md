@@ -1,7 +1,7 @@
 ### Ola eu sou Jonas Santos 👋🏻
 
 #### Um pouco mais sobre mim ✍️ <br/>
-tenho 20 anos, sou natural do Rio Grande do Sul, nascido e criado em torres e desejo ter uma carreira promissora em programação
+tenho 21 anos, sou natural do Rio Grande do Sul, nascido e criado em torres e desejo ter uma carreira promissora em programação
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosh.jonas/)
