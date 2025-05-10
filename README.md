@@ -4,11 +4,13 @@ tenho 21 anos, sou natural do Rio Grande do Sul, torres.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosh.jonas/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-hahn-dos-santos-7ab5a7304/)
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonashsantos613@outlook.com)
+
 
 ![Jonas Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasHahndosSantos&show_icons=true&theme=onedark)
 
 
-## Contatos com essas Linguagens
+## linguagem que tive alguma experiência
 <div  style="display:inline-block;"><br>
     <img aligm="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img aligm="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
