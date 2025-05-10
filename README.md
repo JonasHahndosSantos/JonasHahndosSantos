@@ -25,4 +25,5 @@ tenho 21 anos, sou natural do Rio Grande do Sul, torres.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHahndosSantos&hide_progress=demo) <br>
 
-Estudo Analise e Desenvolvimento de Sistemas na Ulbra/Torres RS, gosto de novos desafios e amo programar em C# e PHP.
+Estudo Analise e Desenvolvimento de Sistemas na Ulbra/Torres RS. 
+Gosto de novos desafios e me aventuro em programas em C# e Java, tambem estou começando a interragir com Flutter.
