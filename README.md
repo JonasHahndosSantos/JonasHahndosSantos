@@ -1,5 +1,7 @@
 ### Oii, sou Jonas Santos 👋
 tenho 21 anos, sou natural do Rio Grande do Sul, torres.
+Estudo Analise e Desenvolvimento de Sistemas na Ulbra/Torres RS. 
+Gosto de novos desafios e me aventuro em programas em C# e Java, tambem estou começando a interragir com Flutter.
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosh.jonas/)
@@ -27,5 +29,3 @@ tenho 21 anos, sou natural do Rio Grande do Sul, torres.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHahndosSantos&hide_progress=demo) <br>
 
-Estudo Analise e Desenvolvimento de Sistemas na Ulbra/Torres RS. 
-Gosto de novos desafios e me aventuro em programas em C# e Java, tambem estou começando a interragir com Flutter.
