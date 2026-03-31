@@ -6,9 +6,7 @@ Trabalho Como Desenvolvedor na Cervantes Texnologia.
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasHahndosSantos&show_icons=true&theme=onedark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHahndosSantos&layout=compact&theme=onedark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonasHahndosSantos&bg_color=0d1117&color=ffffff&line=58a6ff&point=1f6feb&area=true&hide_border=true)
 
 ---
 
